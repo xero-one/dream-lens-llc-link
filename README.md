@@ -238,7 +238,7 @@
             <br>
             <br>
             <h3>
-                Miscellaneous Items
+                Miscellaneous Items 🎨
             </h3>
             <ul>
                 <li>
