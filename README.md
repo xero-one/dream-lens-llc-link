@@ -237,9 +237,10 @@
             </ul>
             <br>
             <br>
-             <h3>
+            <h3>
                 Miscellaneous Items
             </h3>
+            <li>
                 <h4>
                     Design
                 </h4>
@@ -290,6 +291,7 @@
                         </ul>
                     </li>
                 </ul>
+            </li>  
             <br>
             <br>
             <h3>
