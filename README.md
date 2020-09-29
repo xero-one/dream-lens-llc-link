@@ -63,42 +63,6 @@
                                     <div>
                                         A pseudo-page that displays every 24 hours per unique user session by safely manipulating the user’s local storage.
                                     </div>
-                                    <ul>
-                                        <li>
-                                            <div>
-                                                example option
-                                            </div>
-                                            <ul>
-                                                <li>
-                                                    <div>
-                                                        This is some text inside of a div block.
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </li>
-                    </ul>
-                </li>
-
-                <li>
-                    <h4>
-                        Front-end
-                    </h4>
-                    <ul>
-                        <li>
-                            <div>
-                                <strong>
-                                    Power Up Page
-                                </strong>
-                            </div>
-                            <ul>
-                                <li>
-                                    <div>
-                                        A pseudo-page that displays every 24 hours per unique user session by safely manipulating the user’s local storage.
-                                    </div>
                                 </li>
                             </ul>
                         </li>
