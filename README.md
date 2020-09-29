@@ -3,7 +3,6 @@
             </div>
             <br>
             <br>
-            <br>
             <h3>Description</h3>
                 <p>The Dream Lens project is a SPWA (single page web application) created for a small-team media production company based in Houston,Texas. The goal of this project was to establish the company’s presence online and to passively intake customer inquiries online.
 <br>
