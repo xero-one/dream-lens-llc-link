@@ -240,7 +240,42 @@
             <h3>
                 Miscellaneous Items
             </h3>
-               <li>
+                <li>
+                    <h4>
+                        Front-end
+                    </h4>
+                    <ul>
+                        <li>
+                            <div>
+                                <strong>
+                                    Power Up Page
+                                </strong>
+                            </div>
+                            <ul>
+                                <li>
+                                    <div>
+                                        A pseudo-page that displays every 24 hours per unique user session by safely manipulating the user’s local storage.
+                                    </div>
+                                    <ul>
+                                        <li>
+                                            <div>
+                                                example option
+                                            </div>
+                                            <ul>
+                                                <li>
+                                                    <div>
+                                                        This is some text inside of a div block.
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li>
                     <h4>
                         Design
                     </h4>
@@ -292,7 +327,8 @@
                         </li>
                     </ul>
                 </li>
-            </ul>
+            <br>
+            <br>
             <h3>
                 Credit
             </h3>
@@ -301,12 +337,16 @@
                     <strong>Chad Gresham - </strong><a href="https://github.com/xero-one"><strong">GitHub</strong></a>
                 </li>
             </ul>
+            <br>
+            <br>
             <h3>
                 Acknowledgments
             </h3>
             <p>
                 A special thank you to Node.js, express.js, EJS, and React.js teams for their tireless efforts to improve and advance these open source technologies. Another thank you to the various software engineers across the globe who unselfishly share their knowledge and consistently make contributions to push the envelope of advancement in the software field.
             </p>
+            <br>
+            <br>
             <h3>
                 Disclaimer
             </h3>
