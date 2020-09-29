@@ -126,7 +126,7 @@
                             <ul>
                                 <li>
                                     <div>
-                                        “The bread and butter of the Dream Lens SPWA” isa unique contact form that collects user input and submits it to the back-end.This contact form validates user input before submitting data to the back-end, its validation features include:
+                                        “The bread and butter of the Dream Lens SPWA” is a unique contact form that collects user input and submits it to the back-end.This contact form validates user input before submitting data to the back-end, its validation features include:
                                     </div>
                                     <ul>
                                         <li>
