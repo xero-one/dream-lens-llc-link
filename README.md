@@ -316,9 +316,9 @@
             <br>
             <hr>
             <div align="center">
-                <h3>
+                <h2>
                     Disclaimer 📑
-                </h3>
+                </h2>
                 <p>
                     <strong>
                         All images represented in this markdown ("README.ME") are property of Dream Lens LLC. All images associated with this Github repo as well as other images connected this Github repo from separate Github repos are property of Dream Lens LLC.
