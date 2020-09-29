@@ -15,7 +15,7 @@
                 </p>
             <br>
             <br>
-            <h3>Stack</h3>
+            <h3>Stack🖥</h3>
             <ul>
                 <li>
                     React.js (JavaScript Library)
@@ -45,7 +45,7 @@
              <br>
             <br>
             <h3>
-                Features
+                Features✔︎
             </h3>
             <ul>
                 <li>
