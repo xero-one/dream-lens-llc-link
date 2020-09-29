@@ -240,58 +240,60 @@
             <h3>
                 Miscellaneous Items
             </h3>
-            <li>
-                <h4>
-                    Design
-                </h4>
-                <ul>
-                    <li>
-                        <div>
-                            <strong>
-                                Logo
-                            </strong>
-                        </div>
-                        <ul>
-                            <li>
-                                <div>
-                                    Hand crafted logo designed by <a href="https://github.com/xero-one">Chad Gresham</a>.
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-                <ul>
-                    <li>
-                        <div>
-                            <strong>
-                                Wire Frame
-                            </strong>
-                        </div>
-                        <ul>
-                            <li>
-                                <div>Custom designed wire frame outlining the blueprint of Dream Lens SPWA UI. Designed by <a href="https://github.com/xero-one">Chad Gresham</a>.
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-                <ul>
-                    <li>
-                        <div>
-                            <strong>
-                                Icons
-                            </strong>
-                        </div>
-                        <ul>
-                            <li>
-                                <div>
-                                    All Dream Lens SPWA buttons, icons, and widget graphics were all designed by <a href="https://github.com/xero-one">Chad Gresham</a>.
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>  
+            <ul>
+                <li>
+                    <h4>
+                        Design
+                    </h4>
+                    <ul>
+                        <li>
+                            <div>
+                                <strong>
+                                    Logo
+                                </strong>
+                            </div>
+                            <ul>
+                                <li>
+                                    <div>
+                                        Hand crafted logo designed by <a href="https://github.com/xero-one">Chad Gresham</a>.
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <div>
+                                <strong>
+                                    Wire Frame
+                                </strong>
+                            </div>
+                            <ul>
+                                <li>
+                                    <div>Custom designed wire frame outlining the blueprint of Dream Lens SPWA UI. Designed by <a href="https://github.com/xero-one">Chad Gresham</a>.
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <div>
+                                <strong>
+                                    Icons
+                                </strong>
+                            </div>
+                            <ul>
+                                <li>
+                                    <div>
+                                        All Dream Lens SPWA buttons, icons, and widget graphics were all designed by <a href="https://github.com/xero-one">Chad Gresham</a>.
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
             <br>
             <br>
             <h3>
