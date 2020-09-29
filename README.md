@@ -297,7 +297,7 @@
             <br>
             <br>
             <h3>
-                Credit
+                Credit 👨🏽‍💻
             </h3>
             <ul>
                 <li>
@@ -307,7 +307,7 @@
             <br>
             <br>
             <h3>
-                Acknowledgments
+                Acknowledgments 🙏🏻
             </h3>
             <p>
                 A special thank you to Node.js, express.js, EJS, and React.js teams for their tireless efforts to improve and advance these open source technologies. Another thank you to the various software engineers across the globe who unselfishly share their knowledge and consistently make contributions to push the envelope of advancement in the software field.
@@ -317,7 +317,7 @@
             <hr>
             <div align="center">
                 <h3>
-                    Disclaimer
+                    Disclaimer 📑
                 </h3>
                 <p>
                     <strong>
