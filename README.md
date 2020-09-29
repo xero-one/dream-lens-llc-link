@@ -314,7 +314,6 @@
             </p>
             <br>
             <br>
-            <hr>
             <div align="center">
                 <h2>
                     Disclaimer 📑
