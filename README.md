@@ -1,6 +1,7 @@
 <div>
-                <h1>Dream Lens LLC</h1>
+                <h1 align="center">Dream Lens LLC</h1>
             </div>
+            <a href="https://dream-lens.web.app/">dreamlenspromo.com</a>
             <br>
             <br>
             <h3>Description</h3>
@@ -10,7 +11,7 @@
                     The technical fruit of this SPWA include a secure serverless back-end, animation heavy and scalable front-end design, and strict form to handle customer inquiries in a professional manner. These technical aspects successfully advance the site’s marketing appearance, site performance and site security ultimately achieving the projects goal.
 <br>
 <br>
-                    Dream Lens is a simple yet thick SPWA built with revolutionary technologies and features. Check the “<strong>Stack</strong>” and “<strong>Feature</strong>s”section below to read more about these technologies and revolutionary features.
+                    Dream Lens is a simple yet thick SPWA built with revolutionary technologies and features. Check the “<strong>Stack</strong>” and “<strong>Feature</strong>s” section below to read more about these technologies and revolutionary features.
                 </p>
             <br>
             <br>
