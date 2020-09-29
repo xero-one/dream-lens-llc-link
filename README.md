@@ -235,3 +235,90 @@
                     </ul>
                 </li>
             </ul>
+            <br>
+            <br>
+            <h3>
+                Miscellaneous Items
+            </h3>
+               <li>
+                    <h4>
+                        Design
+                    </h4>
+                    <ul>
+                        <li>
+                            <div>
+                                <strong>
+                                    Logo
+                                </strong>
+                            </div>
+                            <ul>
+                                <li>
+                                    <div>
+                                        Hand crafted logo designed by <a href="https://github.com/xero-one">Chad Gresham</a>.
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <div>
+                                <strong>
+                                    Wire Frame
+                                </strong>
+                            </div>
+                            <ul>
+                                <li>
+                                    <div>Custom designed wire frame outlining the blueprint of Dream Lens SPWA UI. Designed by <a href="https://github.com/xero-one">Chad Gresham</a>.
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <div>
+                                <strong>
+                                    Icons
+                                </strong>
+                            </div>
+                            <ul>
+                                <li>
+                                    <div>
+                                        All Dream Lens SPWA buttons, icons, and widget graphics were all designed by <a href="https://github.com/xero-one">Chad Gresham</a>.
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+            <h3>
+                Credit
+            </h3>
+            <ul>
+                <li>
+                    <strong>Chad Gresham - </strong><a href="https://github.com/xero-one"><strong">GitHub</strong></a>
+                </li>
+            </ul>
+            <h3>
+                Acknowledgments
+            </h3>
+            <p>
+                A special thank you to Node.js, express.js, EJS, and React.js teams for their tireless efforts to improve and advance these open source technologies. Another thank you to the various software engineers across the globe who unselfishly share their knowledge and consistently make contributions to push the envelope of advancement in the software field.
+            </p>
+            <h3>
+                Disclaimer
+            </h3>
+            <p>
+                <strong>
+                    All images represented in this markdown ("README.ME") are property of Dream Lens LLC. All images associated with this Github repo as well as other images connected this Github repo from separate Github repos are property of Dream Lens LLC.
+                    <br>
+                    All viewers must know that this is only a repo link to the project, please contact the responsible architect (please refer to the "Credit" section for listing of all responsible parties) for code base of the project(s) listed in this markdown.
+                    <br>
+                    Unauthorized use of any intellectual property without consent of owner(s) and responsible parties are punishable by law.
+                </strong>
+                <br>
+                <br>
+                &zwj;
+            </p>
