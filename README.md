@@ -314,6 +314,7 @@
             </p>
             <br>
             <br>
+            <hr>
             <div align="center">
                 <h3>
                     Disclaimer
