@@ -242,41 +242,6 @@
             </h3>
                 <li>
                     <h4>
-                        Front-end
-                    </h4>
-                    <ul>
-                        <li>
-                            <div>
-                                <strong>
-                                    Power Up Page
-                                </strong>
-                            </div>
-                            <ul>
-                                <li>
-                                    <div>
-                                        A pseudo-page that displays every 24 hours per unique user session by safely manipulating the user’s local storage.
-                                    </div>
-                                    <ul>
-                                        <li>
-                                            <div>
-                                                example option
-                                            </div>
-                                            <ul>
-                                                <li>
-                                                    <div>
-                                                        This is some text inside of a div block.
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </li>
-                    </ul>
-                </li>
-                <li>
-                    <h4>
                         Design
                     </h4>
                     <ul>
@@ -354,7 +319,9 @@
                 <strong>
                     All images represented in this markdown ("README.ME") are property of Dream Lens LLC. All images associated with this Github repo as well as other images connected this Github repo from separate Github repos are property of Dream Lens LLC.
                     <br>
+                    <br>
                     All viewers must know that this is only a repo link to the project, please contact the responsible architect (please refer to the "Credit" section for listing of all responsible parties) for code base of the project(s) listed in this markdown.
+                    <br>
                     <br>
                     Unauthorized use of any intellectual property without consent of owner(s) and responsible parties are punishable by law.
                 </strong>
