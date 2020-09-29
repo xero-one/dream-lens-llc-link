@@ -322,10 +322,10 @@
                 </h3>
                 <p>
                     <strong>
-                        All images represented in this markdown ("README.ME") are property of Dream Lens LLC. All images associated with this Github repo as well as other images connected this Github repo from separate Github repos are property of Dream Lens LLC.
+                        All images represented in this markdown ("README.ME") are property of Dream Lens LLC. All images associated with this Github repo as well as other images connected to this Github repo from separate Github repos are property of Dream Lens LLC.
                         <br>
                         <br>
-                        All viewers must know that this is only a repo link to the project, please contact the responsible architect (please refer to the "Credit" section for listing of all responsible parties) for code base of the project(s) listed in this markdown.
+                        All viewers must know that this is only a repo link to the project, please contact the responsible architect(s) (please refer to the "Credit" section for listing of all responsible parties) for code base of the project(s) listed in this markdown.
                         <br>
                         <br>
                         Unauthorized use of any intellectual property without consent of owner(s) and responsible parties are punishable by law.
