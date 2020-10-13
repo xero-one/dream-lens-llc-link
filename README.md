@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/xero-one/dream-lens-llc-link/master/assets/dream-lens-logo%4050.svg">](https://dream-lens.web.app/)
+[<img src="https://raw.githubusercontent.com/xero-one/dream-lens-llc-link/master/assets/dream-lens-logo.svg" width="50%" align="center">](https://dream-lens.web.app/)
 <div align="center">
   <a class="anchor" href="https://dream-lens.web.app/">dreamlenspromo.com</a>
             </div>
