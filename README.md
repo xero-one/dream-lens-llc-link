@@ -263,7 +263,15 @@
                             <ul>
                                 <li>
                                     <div>
-                                        Hand crafted logo designed by <a href="https://github.com/xero-one">Chad Gresham</a>.
+                                       Hand crafted logo designed by <a href="https://github.com/xero-one">Chad Gresham</a>.
+                                       <table>
+                                       <tbody>
+                                        <tr>
+                                         <td><img src="https://github.com/xero-one/dream-lens-llc-link/blob/master/assets/concept-b.png" width="100%"></td>
+                                         <td><img src="https://github.com/xero-one/dream-lens-llc-link/blob/master/assets/master-logo.png" width="100%"></td>
+                                        </tr>
+                                       </tbody>
+                                      </table> 
                                     </div>
                                 </li>
                             </ul>
@@ -279,6 +287,13 @@
                             <ul>
                                 <li>
                                     <div>Custom designed wire frame outlining the blueprint of Dream Lens SPWA UI. Designed by <a href="https://github.com/xero-one">Chad Gresham</a>.
+                                      <table>
+                                       <tbody>
+                                        <tr>
+                                         <td><img src="https://github.com/xero-one/dream-lens-llc-link/blob/master/assets/wireframe.png" width="100%"></td>
+                                        </tr>
+                                       </tbody>
+                                      </table> 
                                     </div>
                                 </li>
                             </ul>
