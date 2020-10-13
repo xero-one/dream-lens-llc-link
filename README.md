@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://dream-lens.web.app/"
-    ![dreamlogo](https://raw.githubusercontent.com/xero-one/dream-lens-llc-link/master/assets/dream-lens-logo-id.svg | width=50)
+    ![dreamlogo](https://raw.githubusercontent.com/xero-one/dream-lens-llc-link/master/assets/dream-lens-logo-id.svg)
   </a>
   <br>
   <a class="anchor" href="https://dream-lens.web.app/" rel="noopener noreferrer">dreamlenspromo.com</a>
