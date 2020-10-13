@@ -1,9 +1,9 @@
 <div align="center">
-  <a href="https://dream-lens.web.app/" rel="noopener noreferrer"
+  <a href="https://dream-lens.web.app/" rel="nofollw"
     <img src="https://raw.githubusercontent.com/xero-one/dream-lens-llc-link/master/assets/dream-lens-logo-id.svg" alt="Dream Lens Master Logo" width="50%">
   </a>
   <br>
-  <a class "anchor" href="https://dream-lens.web.app/" rel="noopener noreferrer">dreamlenspromo.com</a>
+  <a class="anchor" href="https://dream-lens.web.app/" rel="noopener noreferrer">dreamlenspromo.com</a>
             </div>
             <br>
             <br>
