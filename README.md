@@ -1,8 +1,9 @@
 <div align="center">
-                
-  <img src="https://raw.githubusercontent.com/xero-one/dream-lens-llc-link/master/assets/dream-lens-logo-id.svg" alt="Dream Lens Master Logo" width="50%">
+  <a href="https://dream-lens.web.app/" rel="noopener noreferrer"
+    <img src="https://raw.githubusercontent.com/xero-one/dream-lens-llc-link/master/assets/dream-lens-logo-id.svg" alt="Dream Lens Master Logo" width="50%">
+  </a>
   <br>
-  <a href="https://dream-lens.web.app/">dreamlenspromo.com</a>
+  <a class "anchor" href="https://dream-lens.web.app/" rel="noopener noreferrer">dreamlenspromo.com</a>
             </div>
             <br>
             <br>
