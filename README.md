@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/xero-one/dream-lens-llc-link/master/assets/dream-lens-logo.svg" width="50%" align="center">](https://dream-lens.web.app/)
+[<p align="center"><img src="https://raw.githubusercontent.com/xero-one/dream-lens-llc-link/master/assets/dream-lens-logo.svg" width="50%"></p>](https://dream-lens.web.app/)
 <div align="center">
   <a class="anchor" href="https://dream-lens.web.app/">dreamlenspromo.com</a>
             </div>
@@ -227,7 +227,11 @@
                             <ul>
                                 <li>
                                     <div>
-                                        Custom coded email templates using embedded JavaScript for better user experience on both the admin and user side. 
+                                        Custom coded email templates using embedded JavaScript for better user experience on both the admin and user side.
+                                      <div>
+                                        <img src="/github.com/xero-one/dream-lens-llc-link/blob/master/assets/user-confirmation-email.png" width="50%" align="left">
+                                        <img src="/github.com/xero-one/dream-lens-llc-link/blob/master/assets/admin-confirmation-email.png" width="50%" align="right">
+                                      </div>
                                     </div>
                                 </li>
                             </ul>
