@@ -1,6 +1,6 @@
 [<p align="center"><img src="https://raw.githubusercontent.com/xero-one/dream-lens-llc-link/master/assets/dream-lens-logo.svg" width="50%"></p>](https://dream-lens.web.app/)
 <h1></h1>
-<h3 align="center"><a href="https://dream-lens.web.app/" target="_blank">Website Link</a></h3>
+<h3 align="center"><a href="https://dream-lens.web.app/">Website Link ➡️</a></h3>
 <br>
 <br>
 <h3>Description 📖</h3>
