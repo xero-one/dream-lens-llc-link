@@ -1,5 +1,6 @@
 <div align="center">
-                <h1>Dream Lens LLC</h1>
+                
+  <img src="https://raw.githubusercontent.com/xero-one/dream-lens-llc-link/master/assets/dream-lens-logo-id.svg" alt="Social banner for jh3y" style="max-width:100%;">
   <a href="https://dream-lens.web.app/">dreamlenspromo.com</a>
             </div>
             <br>
