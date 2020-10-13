@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://dream-lens.web.app/" rel="nofollow"
+  <a href="https://dream-lens.web.app/"
     <img src="https://raw.githubusercontent.com/xero-one/dream-lens-llc-link/master/assets/dream-lens-logo-id.svg" alt="Dream Lens Master Logo" width="50%">
   </a>
   <br>
