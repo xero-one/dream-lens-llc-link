@@ -1,7 +1,7 @@
 <div align="center">
     [![Dream Lens Logo](https://raw.githubusercontent.com/xero-one/dream-lens-llc-link/master/assets/dream-lens-logo-id.svg)](https://dream-lens.web.app/)
   <br>
-  <a class="anchor" href="https://dream-lens.web.app/" rel="noopener noreferrer">dreamlenspromo.com</a>
+  <a class="anchor" href="https://dream-lens.web.app/">dreamlenspromo.com</a>
             </div>
             <br>
             <br>
