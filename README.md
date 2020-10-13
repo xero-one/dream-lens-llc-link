@@ -1,18 +1,17 @@
 [<p align="center"><img src="https://raw.githubusercontent.com/xero-one/dream-lens-llc-link/master/assets/dream-lens-logo.svg" width="50%"></p>](https://dream-lens.web.app/)
-<p align="center">
-  <a class="anchor" href="https://dream-lens.web.app/">dreamlenspromo.com</a>
-            </p>
-            <br>
-            <br>
-            <h3>Description 📖</h3>
-                <p>The Dream Lens project is a professional SPWA (single page web application) created for a small-team media production company based in Houston,Texas. The goal of this project was to establish the company’s presence online and to passively intake customer inquiries online.
+<h1></h1>
+<a href="https://dream-lens.web.app/"><h3 align="center">Website Link</h3></a>
+<br>
+<br>
+<h3>Description 📖</h3>
+<p>The Dream Lens project is a professional SPWA (single page web application) created for a small-team media production company based in Houston,Texas. The goal of this project was to establish the company’s presence online and to passively intake customer inquiries online.
 <br>
 <br>
                     The technical fruit of this SPWA include a secure serverless back-end, animation heavy and scalable front-end design, and strict form to handle customer inquiries in a professional manner. These technical aspects successfully advance the site’s marketing appearance, site performance and site security ultimately achieving the projects goal.
 <br>
 <br>
                     Dream Lens is a simple yet thick SPWA built with revolutionary technologies and features. Check the “<strong>Stack</strong>” and “<strong>Feature</strong>s” section below to read more about these technologies and revolutionary features.
-                </p>
+</p>
             <br>
             <br>
             <h3>Stack 🖥</h3>
