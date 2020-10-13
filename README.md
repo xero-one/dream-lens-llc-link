@@ -1,6 +1,6 @@
 <div align="center">
                 
-  <img src="https://raw.githubusercontent.com/xero-one/dream-lens-llc-link/master/assets/dream-lens-logo-id.svg" alt="Dream Lens Master Logo" style="max-width:50%;">
+  <img src="https://raw.githubusercontent.com/xero-one/dream-lens-llc-link/master/assets/dream-lens-logo-id.svg" alt="Dream Lens Master Logo" style="max-width:50% !important;">
   <a href="https://dream-lens.web.app/">dreamlenspromo.com</a>
             </div>
             <br>
