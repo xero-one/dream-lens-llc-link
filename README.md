@@ -1,5 +1,6 @@
 <div align="center">
-  <a href="https://dream-lens.web.app/"
+    [![Logo](https://raw.githubusercontent.com/xero-one/dream-lens-llc-link/master/assets/dream-lens-logo-id.svg)](https://dream-lens.web.app/)
+  <a href=""
     ![dreamlogo](https://raw.githubusercontent.com/xero-one/dream-lens-llc-link/master/assets/dream-lens-logo-id.svg)
   </a>
   <br>
